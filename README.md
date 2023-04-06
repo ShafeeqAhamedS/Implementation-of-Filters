@@ -22,6 +22,10 @@ Perform sharpening on a image.
 ### Step 4:
 Display all the images with their respective filters.
 
+</br>
+</br>
+</br>
+
 ## Program:
 Developed By: **Shafeeq Ahamed. S**
 </br>
@@ -107,9 +111,19 @@ plt.imshow(img_laplacian)
 plt.show()
 ```
 
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT:
 ### 1. Smoothing Filters
 #### i) Using Averaging Filter
+Original                           |  Averaging Filter                               |
+:------------------------------------------:|:--------------------------------------------:|
+<img src="https://user-images.githubusercontent.com/93427237/230288283-49c6c810-98e3-4899-aaca-94b55b9418a5.png"> | <img src="https://user-images.githubusercontent.com/93427237/230288796-f43e83fa-6a17-4f77-af6b-35de6ed20d57.png"> |
+
 
 #### ii) Using Weighted Averaging Filter
 
